@@ -30,7 +30,7 @@ categpry: HTML5
         <div id="ani2">
         </div>
         <style>
-#divhead {position: fixed; left: 50%; padding: 50px;}
+#divhead {position: fixed; left: 50%;}
 section h6{ text-align: center;padding-top: 7px; color: white; font-family: "楷体"}
 section h6 span {font-size: 20px;font-family: "华文行楷"}
 #pd { text-align:center;width: 25px; float: left; margin: 0; padding: 0; font-size: 20px;font-family: "楷体"}
