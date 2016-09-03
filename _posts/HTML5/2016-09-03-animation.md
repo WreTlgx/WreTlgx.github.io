@@ -5,7 +5,7 @@ tags: HTML5
 categpry: HTML5
 ---
 
-<!doctype html>
+    这家伙好懒，什么多没有留下...
 <html>
     <head>
         <meta charset="utf-8">
@@ -153,7 +153,6 @@ section h6 span {font-size: 20px;font-family: "华文行楷"}
 }
      
         </style>    
-        </style>
     </body>
 </html>
 
