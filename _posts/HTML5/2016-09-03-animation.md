@@ -5,7 +5,8 @@ tags: HTML5
 categpry: HTML5
 ---
 
-    这家伙好懒，什么多没有留下...
+    这家伙好懒，什么都没有留下...
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -24,7 +25,7 @@ categpry: HTML5
             <div id="ani1_2"></div> 
         </div>
         <br/>
-        <br/>                                                                                   
+        <br/>                          
         <div id="ani2">
         </div>
         <style>
@@ -151,8 +152,14 @@ section h6 span {font-size: 20px;font-family: "华文行楷"}
     82%  {top: -75px; left: -325px; background-color: transparent;}/*结束*/
     100% {top: -75px; left: -325px; background-color: transparent;}
 }
-     
-        </style>    
+
+#null{height: 2000px; width: 20px; position:absolute; top: 400px;} 
+    
+        </style>  
+        <br/>  
+        <br/>
+        <div id="null">
+        </div>
     </body>
 </html>
 
